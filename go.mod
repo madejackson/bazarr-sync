@@ -1,4 +1,4 @@
-module github.com/ajmandourah/bazarr-sync
+module github.com/madejackson/bazarr-sync
 
 go 1.22
 
