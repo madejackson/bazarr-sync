@@ -1,6 +1,6 @@
 module github.com/ajmandourah/bazarr-sync
 
-go 1.22.3
+go 1.22
 
 require (
 	github.com/pterm/pterm v0.12.79
